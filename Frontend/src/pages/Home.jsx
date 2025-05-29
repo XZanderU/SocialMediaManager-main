@@ -109,21 +109,21 @@ const backgroundImageUrl = 'https://example.com/your-background-image.jpg';
     <div className="bg-gray-100 p-8 rounded-lg shadow-lg max-w-3xl mx-auto">
       <ul className="space-y-4">
         <li className="flex items-start">
-          <img src="../src/Icons/Programacion.svg" alt="Programación" className="w-12 h-12 mr-4" />
+          <img src="Frontend/src/Icons/Programacion.svg" alt="Programación" className="w-12 h-12 mr-4" />
           <div>
             <span className="text-primary font-medium">&#9679;</span>
             <span className="text-gray-700 text-lg">Programación de publicaciones en múltiples plataformas.</span>
           </div>
         </li>
         <li className="flex items-start">
-          <img src="/src/Icons/Analytics.svg" alt="Analytics" className="w-12 h-12 mr-4" />
+          <img src="Frontend/src/Icons/Analytics.svg" alt="Analytics" className="w-12 h-12 mr-4" />
           <div>
             <span className="text-primary font-medium">&#9679;</span>
             <span className="text-gray-700 text-lg">Analytics en tiempo real para medir tu rendimiento.</span>
           </div>
         </li>
         <li className="flex items-start">
-          <img src="/src/Icons/Comments.svg" alt="Gestión" className="w-12 h-12 mr-4" />
+          <img src="Frontend/src/Icons/Comments.svg" alt="Gestión" className="w-12 h-12 mr-4" />
           <div>
             <span className="text-primary font-medium">&#9679;</span>
             <span className="text-gray-700 text-lg">Gestión centralizada de comentarios y mensajes.</span>

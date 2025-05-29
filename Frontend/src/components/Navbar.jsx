@@ -43,7 +43,7 @@ const Navbar = () => {
         style={{ zIndex: 10 }} // Navbar sobre el fondo
       >
         <div className="flex justify-between items-center">
-          <img src="src/Img/EngagePro.png" alt="Logo" className="h-20" />
+          <img src="Frontend/src/Img/EngagePro.png" alt="Logo" className="h-20" />
           <button
             className="block lg:hidden focus:outline-none"
             onClick={toggleMenu}
