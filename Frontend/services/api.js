@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Configura la URL base de tu API
 const api = axios.create({
-  baseURL: 'https://jsonplaceholder.typicode.com', // Cambia esta URL a tu API real
+  baseURL: 'http://localhost:5000/api/posts/scheduled', // Cambia esta URL a tu API real
 });
 
 // Autenticación con redes sociales
