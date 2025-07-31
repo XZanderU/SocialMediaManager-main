@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://jsonplaceholder.typicode.com', // URL simulada
+  baseURL: 'http://localhost:5000/api/posts/scheduled', // URL simulada
 });
 
 // Función para simular el login

@@ -1,5 +1,3 @@
-// postService.js
-
 const Post = require('../models/post');
 
 // Obtener todas las publicaciones programadas
